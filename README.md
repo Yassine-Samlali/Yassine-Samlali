@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yassine Smlali 👋</h1>
 
 <p align="center">
-  🧠 Front-End Developer • 🎨 UI/UX Enthusiast • 🇲🇦 Based in Morocco
+  🎯 Front-End Developer | 🎬 Viral Content Creator | 🇲🇦 Morocco
 </p>
 
 <p align="center">
@@ -10,69 +10,92 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 I specialize in building responsive and interactive websites using **HTML, CSS, JavaScript, React.js, and Tailwind CSS**.
-- 🌱 Currently learning **PHP**, **Laravel**, and **Python** to become a Full-Stack Developer.
-- 🔄 I use **Git & GitHub** for version control and team collaboration.
-- 🧠 Strong understanding of **UI/UX principles** with experience in **Photoshop** and **modern front-end libraries**.
-- 🔥 Passionate about building beautiful user interfaces and smooth user experiences.
+- 👨‍🎓 **Diploma in Software Development (2024)** – ISFIM  
+- 🌍 From **Tinejdad**, based in **Hay Al Bour**, Morocco  
+- 🧠 I have **ADHD** so I love keeping code and concepts **simple, visual, and efficient**
+- 💼 Experienced in **administrative internships** and real-world software projects
+- 📱 Passionate about **UI/UX, animations, and smooth user experiences**
+- ✍️ I create **fitness** and **prank call** content for **TikTok** and **YouTube** (Buzz Wave)
+- 🧑‍🎨 Also interested in design and merch via **Redbubble**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Projects
+## 🔥 Projects
 
-Here are a few of my standout projects:
-
-- 🧪 [**Pharmacy Manager App**](#) — A full-stock web app with CRUD, local storage, and category management.
-- 🎮 [**2D Interactive Game**](#) — A fun browser-based game built with HTML/CSS/JS and animations.
-- 🌐 [**Portfolio Website**](#) — A sleek, animated portfolio made with React, Framer Motion, and Tailwind.
-- 🛍️ [**E-Commerce App**](#) — Built with PHP, SQL (PDO), Bootstrap with customer login, payment system, and admin panel.
-
-> 🔗 *Live links and source code available in pinned repos below.*
+- 🧪 **Pharmacy Manager App** – Full web app (stocks, purchases, admin dashboard, local storage)
+- 🌍 **Modern React Portfolio** – Built with React, Tailwind, Framer Motion, email integration
+- 🛍️ **E-Commerce Site** – PHP + SQL (PDO), Bootstrap, Admin Panel, Customer Login, Real Payments
+- 🎮 **2D Game (HTML/JS)** – Interactive browser game with animations
+- 🎨 **Redbubble Designs** – Focused on viral niches (Feminist, Vintage Lego Space, Chromakopia)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YassineSmlali&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineSmlali&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=YassineSmlali&show_icons=true&theme=radical" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineSmlali&layout=compact&theme=radical" width="49%"/>
 
 </div>
+
+---
+
+## 🎥 Buzz Wave & TikTok
+
+- 📹 **YouTube Channel:** [Buzz Wave](https://www.youtube.com/@BuzzWave)  
+  👉 Viral edits, prank calls, and entertaining shorts  
+- 📲 **TikTok Channel:**  
+  👉 Fitness content, prank formats, and dating shows like "Second Date Update" & "Jubal Calls"
 
 ---
 
 ## 📬 Let's Connect
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otakuyassine3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YassineSmlali)
-[![YouTube](https://img.shields.io/badge/YouTube-Buzz%20Wave-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BuzzWave)
+
+[![Email](https://img.shields.io/badge/Gmail-otakuyassine3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otakuyassine3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YassineSmlali-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YassineSmlali)  
+📱 **Phone:** +212 713-855363
 
 </div>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Feel free to explore my repos, fork projects, or connect with me. Let's build something awesome together! 🚀</p>
+## ⚡ Fun Facts
+
+- 💡 I prefer building real apps to learn — no tutorials-only grind.
+- ✍️ I love editing videos and playing with effects.
+- 🧩 I'm always experimenting with UI transitions and custom loaders.
+- 🎯 My goal? Become a **Full-Stack Developer** who builds both stunning UIs and solid backends.
+
+---
+
+<p align="center">
+  💖 Thanks for visiting my GitHub! Let's build something great together!
+</p>
