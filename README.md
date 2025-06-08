@@ -12,90 +12,81 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 **Diploma in Software Development (2024)** – ISFIM  
-- 🌍 From **Tinejdad**, based in **Hay Al Bour**, Morocco  
-- 🧠 I have **ADHD** so I love keeping code and concepts **simple, visual, and efficient**
-- 💼 Experienced in **administrative internships** and real-world software projects
-- 📱 Passionate about **UI/UX, animations, and smooth user experiences**
-- ✍️ I create **fitness** and **prank call** content for **TikTok** and **YouTube** (Buzz Wave)
-- 🧑‍🎨 Also interested in design and merch via **Redbubble**
+- :contentReference[oaicite:1]{index=1}  
+- :contentReference[oaicite:2]{index=2}  
+- :contentReference[oaicite:3]{index=3}  
+- :contentReference[oaicite:4]{index=4}  
+- :contentReference[oaicite:5]{index=5}  
+- :contentReference[oaicite:6]{index=6}
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
+  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 </div>
 
 ---
 
-## 🔥 Projects
+## 💻 Projects & Creations
 
-- 🧪 **Pharmacy Manager App** – Full web app (stocks, purchases, admin dashboard, local storage)
-- 🌍 **Modern React Portfolio** – Built with React, Tailwind, Framer Motion, email integration
-- 🛍️ **E-Commerce Site** – PHP + SQL (PDO), Bootstrap, Admin Panel, Customer Login, Real Payments
-- 🎮 **2D Game (HTML/JS)** – Interactive browser game with animations
-- 🎨 **Redbubble Designs** – Focused on viral niches (Feminist, Vintage Lego Space, Chromakopia)
+- :contentReference[oaicite:7]{index=7}  
+- :contentReference[oaicite:8]{index=8}  
+- :contentReference[oaicite:9]{index=9}  
+- :contentReference[oaicite:10]{index=10}  
+- :contentReference[oaicite:11]{index=11}
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YassineSmlali&show_icons=true&theme=radical" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineSmlali&layout=compact&theme=radical" width="49%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineSmlali&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineSmlali&layout=compact&theme=radical" width="49%" />
 </div>
 
 ---
 
-## 🎥 Buzz Wave & TikTok
+## 🎥 Content & Social
 
-- 📹 **YouTube Channel:** [Buzz Wave](https://www.youtube.com/@BuzzWave)  
-  👉 Viral edits, prank calls, and entertaining shorts  
-- 📲 **TikTok Channel:**  
-  👉 Fitness content, prank formats, and dating shows like "Second Date Update" & "Jubal Calls"
+- :contentReference[oaicite:12]{index=12}  
+- :contentReference[oaicite:13]{index=13}  
+- :contentReference[oaicite:14]{index=14}
 
 ---
 
-## 📬 Let's Connect
+## 🔗 Connect With Me
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-otakuyassine3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otakuyassine3@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YassineSmlali-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YassineSmlali)  
-📱 **Phone:** +212 713-855363
-
+  [![Gmail](https://img.shields.io/badge/Gmail-otakuyassine3@gmail.com-D14836?style=flat&logo=gmail)](mailto:otakuyassine3@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YassineSmlali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YassineSmlali)  
+  📞 +212 713‑855363
 </div>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun & Goals
 
-- 💡 I prefer building real apps to learn — no tutorials-only grind.
-- ✍️ I love editing videos and playing with effects.
-- 🧩 I'm always experimenting with UI transitions and custom loaders.
-- 🎯 My goal? Become a **Full-Stack Developer** who builds both stunning UIs and solid backends.
+- :contentReference[oaicite:15]{index=15}  
+- :contentReference[oaicite:16]{index=16}  
+- :contentReference[oaicite:17]{index=17}
 
 ---
 
 <p align="center">
-  💖 Thanks for visiting my GitHub! Let's build something great together!
+  💖 Thanks for stopping by! Let's build something impactful together 🚀
 </p>
