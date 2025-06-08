@@ -1,92 +1,27 @@
-<h1 align="center">Hi there, I'm Yassine Smlali 👋</h1>
+# 💫 About Me:
+- 🎓 **Bac+2** en Développement Informatique (Technicien Spécialisé)  <br>- 💻 Compétences : HTML, CSS, JavaScript, React, Next.js, PHP/Laravel, MySQL, Python, C  <br>- 🛠️ Réalisation d'applications : gestion de pharmacie, e-commerce, jeu 2D interactif  <br>- 🎥 Créateur de contenu sur TikTok <br>- 🎨 Designer de produits sur Redbubble (niches :  vintage, Chromakopia, cats)  <br>- 🌱 Objectif : devenir Développeur Full-Stack avec une expertise UI/UX et backend<br>
 
-<p align="center">
-  🎯 Front-End Developer | 🎬 Viral Content Creator | 🇲🇦 Morocco
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassineSmlali&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:otakuyassine3@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=plastic&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yassine-Samlali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yassine-Samlali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Samlali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧑‍💻 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yassine-Samlali&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Skills & Tech Stack
-
-<div align="center">
-  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yassine-Samlali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Yassine-Samlali&icon=9&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Projects & Creations
-
-- :contentReference[oaicite:7]{index=7}  
-- :contentReference[oaicite:8]{index=8}  
-- :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10}  
-- :contentReference[oaicite:11]{index=11}
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineSmlali&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineSmlali&layout=compact&theme=radical" width="49%" />
-</div>
-
----
-
-## 🎥 Content & Social
-
-- :contentReference[oaicite:12]{index=12}  
-- :contentReference[oaicite:13]{index=13}  
-- :contentReference[oaicite:14]{index=14}
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-otakuyassine3@gmail.com-D14836?style=flat&logo=gmail)](mailto:otakuyassine3@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YassineSmlali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YassineSmlali)  
-  📞 +212 713‑855363
-</div>
-
----
-
-## ⚡ Fun & Goals
-
-- :contentReference[oaicite:15]{index=15}  
-- :contentReference[oaicite:16]{index=16}  
-- :contentReference[oaicite:17]{index=17}
-
----
-
-<p align="center">
-  💖 Thanks for stopping by! Let's build something impactful together 🚀
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
